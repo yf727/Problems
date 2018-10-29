@@ -3,6 +3,13 @@ title: "Water_data_script"
 author: "Youfei Zhang"
 ---
   
+###############################################
+## special thanks to Prudence Katze 
+## who helped me organized codes into functions 
+###############################################
+
+
+## load packages 
 require(RODBC)
 library(stringr)
 library(dplyr)
@@ -160,7 +167,7 @@ loop_test360days = lastread_loop(water_clean, 270, 360)
 
 
 ############################################
-## Part III: Data Manipulation - weighed sum
+## Part III: Data Manipulation - weighed-sum
 
 ## loop for getting weighed sum of 90, 180, 270, 360 days
 
