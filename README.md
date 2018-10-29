@@ -1,4 +1,4 @@
-# Problems
-Assignments 
+# NYC Water Data Mining 
 
-This repository is for problems in the course MSDA501
+Script for processing time-series data 
+
