@@ -5,7 +5,7 @@ author: "Youfei Zhang"
   
 ###############################################
 ## special thanks to Prudence Katze 
-## who helped me organized the functions 
+## who helped me organized functions 
 ###############################################
 
 
