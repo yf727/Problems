@@ -1,4 +1,4 @@
-# NYC Water Data Mining 
+# NYC Water Data
 
 This script is created for processing time series data.
 The purpose is to transform the original data into weighed-sum values based on different time threshold.  
